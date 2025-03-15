@@ -4,7 +4,7 @@ A LinkedIn Clone built using HTML, CSS, and JavaScript to replicate the core fea
 
 ## 📌 Features
 - Responsive Design – Works on desktop and mobile devices.
-- User Interface – Home feed, profile section, and sidebar widgets.
+- User Interface – Home feed, profile section, and header section.
 
 ### 🛠️ Technologies Used
 - HTML – For structuring the webpage.
